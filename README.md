@@ -48,7 +48,7 @@ Resumes (PDF/DOCX/TXT)          Job Description (TXT)
 ### 1. Clone and install dependencies
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/wahidcgr/resume-screening-agent
 cd resume-screening-agent
 python3 -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
