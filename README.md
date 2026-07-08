@@ -45,7 +45,8 @@ Resumes (PDF/DOCX/TXT)          Job Description (TXT)
 
 ## Setup
 
-### 1. Clone and install dependencies
+### 1. Clone and install dependencies   type these commands one by one in vs code terminal
+
 
 ```bash
 git clone https://github.com/wahidcgr/resume-screening-agent
@@ -80,7 +81,7 @@ Two ways to use FitBench: the **web dashboard** (recommended — visual, interac
 
 ---
 
-## Option A: Web Dashboard (to run in browser)
+## Option A: Web Dashboard (to run in browser)   --- you have resumes from this project itself inside data folder select it and also job description is available in same folder copy paste it in the browser for screening
 
 ```bash
 python app.py
