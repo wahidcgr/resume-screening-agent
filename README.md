@@ -52,7 +52,7 @@ Resumes (PDF/DOCX/TXT)          Job Description (TXT)
 git clone https://github.com/wahidcgr/resume-screening-agent
 cd resume-screening-agent
 python3 -m venv venv
-venv\Scripts\Activate.ps1      
+venv\Scripts\Activate.ps1  -- (if error appears then type this - Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass and then again type   --- venv\Scripts\Activate.ps1 )   
 pip install -r requirements.txt
 ```
 
