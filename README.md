@@ -52,7 +52,7 @@ Resumes (PDF/DOCX/TXT)          Job Description (TXT)
 git clone https://github.com/wahidcgr/resume-screening-agent
 cd resume-screening-agent
 python3 -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
+venv\Scripts\Activate.ps1      
 pip install -r requirements.txt
 ```
 
