@@ -66,7 +66,7 @@ sign-up, no credit card required), then export it into your shell (or
 use a tool like `python-dotenv` / `direnv` if you prefer auto-loading):
 
 ```bash
-export GROQ_API_KEY=your-groq-api-key-here
+export GROQ_API_KEY=your-groq-api-key-here (insert it in .env folder only)
 ```
 
 > **No API key?** The agent still runs end-to-end using a heuristic
@@ -80,7 +80,7 @@ Two ways to use FitBench: the **web dashboard** (recommended — visual, interac
 
 ---
 
-## Option A: Web Dashboard
+## Option A: Web Dashboard (to run in browser)
 
 ```bash
 python app.py
@@ -116,7 +116,7 @@ is running.
 
 ---
 
-## Option B: CLI
+## Option B: CLI (to run inside VS Code itself)
 
 ```bash
 python main.py --jd data/job_description.txt --resumes data/resumes --output output
