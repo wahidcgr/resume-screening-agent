@@ -1,0 +1,18 @@
+Karan Malhotra
+Delhi, India | karan.malhotra@example.com | +91-99001-22334
+
+SUMMARY
+Data analyst with 3 years of experience in SQL, Excel, and Python for
+reporting and dashboarding. Limited backend engineering experience.
+
+SKILLS
+SQL, Excel, Python (Pandas, Matplotlib), Power BI, Tableau, basic Git
+
+EXPERIENCE
+Data Analyst, RetailMetrics (2021 - Present)
+- Built dashboards in Power BI and Tableau for sales reporting
+- Wrote complex SQL queries against a PostgreSQL data warehouse
+- Automated recurring reports using Python and Pandas
+
+EDUCATION
+B.Com with Computer Applications, Delhi University, 2021

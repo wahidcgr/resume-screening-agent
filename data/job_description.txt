@@ -1,0 +1,35 @@
+Job Title: Backend Software Engineer (Python)
+
+Company: Rooman Technologies
+
+About the Role:
+We are looking for a Backend Software Engineer with strong Python skills to
+design, build, and maintain REST APIs that power our learning and placement
+platform. You will work closely with the product and data teams to ship
+reliable, well-tested services.
+
+Required Skills:
+- 3+ years of professional software development experience
+- Strong proficiency in Python
+- Experience building and consuming REST APIs
+- Solid understanding of SQL and relational databases (PostgreSQL/MySQL)
+- Experience with version control (Git)
+- Familiarity with unit testing and writing testable code
+
+Preferred Skills:
+- Experience with Docker and containerized deployments
+- Exposure to cloud platforms (AWS/GCP/Azure)
+- Experience with CI/CD pipelines
+- Familiarity with message queues (RabbitMQ/Kafka)
+- Basic understanding of machine learning concepts
+
+Education:
+- Bachelor's degree in Computer Science, Engineering, or a related field
+  (or equivalent practical experience)
+
+Responsibilities:
+- Design and implement backend services and REST APIs in Python
+- Write clean, tested, maintainable code
+- Collaborate with frontend and data teams on API contracts
+- Debug and resolve production issues
+- Participate in code reviews and technical design discussions

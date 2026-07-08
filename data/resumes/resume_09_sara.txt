@@ -1,0 +1,18 @@
+Sara D'Souza
+Goa, India | sara.dsouza@example.com | +91-95432-10987
+
+SUMMARY
+Junior Python developer with 1.5 years of experience, having worked on a
+small internal API project and automation scripts.
+
+SKILLS
+Python, Flask, basic SQL (SQLite), Git, Postman, basic Docker
+
+EXPERIENCE
+Junior Developer, AutomateIT Solutions (2023 - Present)
+- Built a small Flask REST API for internal ticket tracking
+- Wrote automation scripts in Python for data cleanup
+- Used SQLite for local data storage during prototyping
+
+EDUCATION
+B.Sc. in Computer Applications, Goa University, 2023

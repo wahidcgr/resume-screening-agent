@@ -1,0 +1,21 @@
+Vikram Nair
+Chennai, India | vikram.nair@example.com | +91-90000-11122
+
+SUMMARY
+Full-stack developer with 2 years of experience, primarily working on
+JavaScript/React frontends with some Node.js backend exposure.
+
+SKILLS
+JavaScript, React, Node.js, Express, MongoDB, HTML/CSS, Git, basic Python
+
+EXPERIENCE
+Frontend Developer, WebNest Solutions (2022 - Present)
+- Built responsive UIs in React for e-commerce clients
+- Wrote small Node.js/Express endpoints for form submissions
+- Used MongoDB for lightweight data storage
+
+Intern, StartupHub (2021 - 2022)
+- Assisted in building landing pages using HTML, CSS, and JavaScript
+
+EDUCATION
+B.Tech in Information Technology, Anna University, 2022

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FitBench — Resume Screening Console</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+<div class="shell">
+
+  <header class="topbar">
+    <div class="brand">
+      <span class="mark">FIT<span>BENCH</span></span>
+      <span class="tagline">Resume Screening Console</span>
+    </div>
+    <span id="statusPill" class="status-pill">
+      <span class="dot"></span>
+      <span id="statusText">Checking engine…</span>
+    </span>
+  </header>
+
+  <main class="console">
+
+    <section class="panel">
+      <h2><span class="num">01</span> Job description</h2>
+      <p class="hint">Paste a JD, upload one, or run against the bundled sample (Backend Software Engineer — Python).</p>
+
+      <div class="tabs" role="tablist">
+        <button class="tab-btn active" data-tab="sample" type="button">Sample</button>
+        <button class="tab-btn" data-tab="paste" type="button">Paste</button>
+        <button class="tab-btn" data-tab="upload" type="button">Upload</button>
+      </div>
+
+      <div class="tab-panel active" data-panel="sample">
+        <div class="jd-preview" id="samplePreview">Loading sample job description…</div>
+      </div>
+
+      <div class="tab-panel" data-panel="paste">
+        <textarea class="jd-textarea" id="jdTextarea" placeholder="Paste the full job description here…"></textarea>
+      </div>
+
+      <div class="tab-panel" data-panel="upload">
+        <div class="dropzone" id="jdDropzone">
+          <span class="icon">⇪</span>
+          <div class="primary">Click to choose a file, or drag one here</div>
+          <div class="secondary">.pdf · .docx · .txt</div>
+        </div>
+        <input type="file" id="jdFileInput" accept=".pdf,.docx,.txt" hidden>
+        <ul class="file-list" id="jdFileList"></ul>
+      </div>
+
+      <div class="field-group" style="margin-top: 24px;">
+        <span class="field-label">Resumes</span>
+        <div class="dropzone" id="resumeDropzone">
+          <span class="icon">⇪</span>
+          <div class="primary">Click to choose files, or drag them here</div>
+          <div class="secondary">.pdf · .docx · .txt — multiple allowed</div>
+        </div>
+        <input type="file" id="resumeFileInput" accept=".pdf,.docx,.txt" multiple hidden>
+        <ul class="file-list" id="resumeFileList"></ul>
+        <div class="sample-note" id="resumeSampleNote">No files selected — will screen the 11 bundled sample resumes.</div>
+      </div>
+
+      <div class="field-group">
+        <label class="check-row">
+          <input type="checkbox" id="useLlmCheckbox" checked>
+          Use LLM scoring via Groq
+          <span class="model-tag" id="modelTag">openai/gpt-oss-120b</span>
+        </label>
+      </div>
+
+      <button class="run-btn" id="runBtn" type="button">Run screening →</button>
+      <div class="error-banner" id="errorBanner"></div>
+    </section>
+
+    <section class="panel log-panel">
+      <h2><span class="num">02</span> Console</h2>
+      <p class="hint">Live output as each resume is parsed, extracted, and scored.</p>
+      <div class="terminal" id="terminal"><span class="line">Idle — configure inputs on the left, then run screening.</span></div>
+      <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+      <div class="progress-caption">
+        <span id="progressLabel">0 / 0 processed</span>
+        <span id="progressPct">0%</span>
+      </div>
+    </section>
+
+  </main>
+
+  <p class="footnote">FitBench — built for the Rooman AI Challenge · TF-IDF similarity + Groq LLM judgment</p>
+</div>
+
+<script src="{{ url_for('static', filename='js/dashboard.js') }}"></script>
+</body>
+</html>

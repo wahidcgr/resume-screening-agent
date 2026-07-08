@@ -1,0 +1,25 @@
+Manish Gupta
+Jaipur, India | manish.gupta@example.com | +91-94321-09876
+
+SUMMARY
+Backend engineer with 7 years of experience across Python and Go, with deep
+expertise in distributed systems, databases, and cloud infrastructure.
+
+SKILLS
+Python, Go, REST APIs, gRPC, PostgreSQL, MongoDB, Redis, Docker, Kubernetes,
+AWS, GCP, Terraform, Kafka, RabbitMQ, unit and integration testing, Git,
+CI/CD (Jenkins, GitHub Actions)
+
+EXPERIENCE
+Staff Backend Engineer, ScaleUp Technologies (2018 - Present)
+- Architected a Python/Go hybrid backend serving 50M+ requests/day
+- Led migration from on-prem to AWS/GCP multi-cloud infrastructure
+- Built Kafka-based event pipelines for real-time analytics
+- Owned CI/CD strategy across 15+ microservices using Jenkins and GitHub Actions
+
+Backend Engineer, InfraWorks (2017 - 2018)
+- Built REST and gRPC APIs in Python for internal platform services
+- Managed PostgreSQL and MongoDB clusters
+
+EDUCATION
+M.S. in Computer Science, BITS Pilani, 2017

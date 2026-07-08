@@ -1,0 +1,20 @@
+Arjun Sharma
+Pune, India | arjun.sharma@example.com | +91-98123-45678
+
+SUMMARY
+Recent graduate with academic projects in Python and machine learning.
+Eager to start a career in software development.
+
+SKILLS
+Python, basic SQL, Pandas, NumPy, scikit-learn, Git, HTML basics
+
+PROJECTS
+- Built a student grade prediction model using scikit-learn and Pandas
+- Created a simple command-line to-do list app in Python with SQLite storage
+- Participated in a college hackathon building a Flask-based quiz app
+
+EDUCATION
+B.Tech in Computer Science, VIT Pune, 2024
+
+CERTIFICATIONS
+- Python for Data Science, Coursera

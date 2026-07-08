@@ -1,0 +1,25 @@
+Ananya Rao
+Bengaluru, India | ananya.rao@example.com | +91-98765-43210
+
+SUMMARY
+Backend engineer with 4 years of experience building Python REST APIs for
+fintech products. Comfortable owning services end-to-end from design to
+production deployment.
+
+SKILLS
+Python, Django, Flask, FastAPI, REST APIs, PostgreSQL, MySQL, Git, Docker,
+AWS (EC2, S3, RDS), unit testing (pytest), CI/CD (GitHub Actions), RabbitMQ
+
+EXPERIENCE
+Backend Engineer, PayEase Technologies (2021 - Present)
+- Built and maintained REST APIs serving 2M+ requests/day using Django REST Framework
+- Migrated monolithic service to containerized microservices using Docker and AWS ECS
+- Wrote unit and integration tests, raising coverage from 40% to 85%
+- Set up CI/CD pipeline with GitHub Actions for automated testing and deployment
+
+Software Engineer, CodeCraft Labs (2020 - 2021)
+- Developed internal tools in Python and Flask for data processing
+- Wrote SQL queries and optimized slow-running reports on PostgreSQL
+
+EDUCATION
+B.E. in Computer Science, RV College of Engineering, 2020

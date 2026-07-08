@@ -1,0 +1,23 @@
+Fatima Sheikh
+Mumbai, India | fatima.sheikh@example.com | +91-91234-56789
+
+SUMMARY
+Backend developer with 3 years of experience building REST APIs and working
+with relational databases, currently exploring cloud-native development.
+
+SKILLS
+Python, Django, REST APIs, PostgreSQL, MySQL, Git, Docker (basic), pytest,
+Postman, Linux
+
+EXPERIENCE
+Backend Developer, FinLedger Pvt Ltd (2022 - Present)
+- Developed REST APIs for a loan management platform using Django
+- Wrote SQL queries and stored procedures for reporting
+- Wrote unit tests using pytest, improving test coverage to 70%
+- Containerized one service using Docker for local development
+
+Junior Developer, ByteWorks (2021 - 2022)
+- Maintained legacy PHP scripts, migrated a subset to Python/Django
+
+EDUCATION
+B.Sc. in Computer Science, University of Mumbai, 2021

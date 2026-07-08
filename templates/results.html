@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FitBench — Results</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+<div class="shell">
+
+  <header class="topbar">
+    <div class="brand">
+      <span class="mark">FIT<span>BENCH</span></span>
+      <span class="tagline">Screening Results</span>
+    </div>
+    <a href="/" class="back-link">← New screening</a>
+  </header>
+
+  <main class="results-page" id="resultsPage">
+
+    <div class="hero-stats">
+      <div class="stat">
+        <span class="stat-value" id="statCount">–</span>
+        <span class="stat-label">Candidates screened</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value" id="statAvg">–</span>
+        <span class="stat-label">Average final score</span>
+      </div>
+      <div class="stat top">
+        <span class="stat-value" id="statTop">–</span>
+        <span class="stat-label">Top candidate</span>
+      </div>
+    </div>
+
+    <div class="toolbar">
+      <div class="legend">
+        <span><span class="swatch t"></span>T = TF-IDF similarity (35%)</span>
+        <span><span class="swatch l"></span>L = LLM judgment (65%)</span>
+        <span>Bar = blended final score</span>
+      </div>
+      <div class="toolbar-actions">
+        <input type="text" class="search-input" id="searchInput" placeholder="Filter by name or skill…">
+        <select class="sort-select" id="sortSelect">
+          <option value="final">Sort: Final score</option>
+          <option value="tfidf">Sort: TF-IDF score</option>
+          <option value="llm">Sort: LLM score</option>
+          <option value="name">Sort: Name (A–Z)</option>
+        </select>
+        <a class="icon-btn" id="downloadJson" href="#">JSON ↓</a>
+        <a class="icon-btn" id="downloadCsv" href="#">CSV ↓</a>
+      </div>
+    </div>
+
+    <section class="results-list" id="resultsList">
+      <!-- candidate strips injected here -->
+    </section>
+
+  </main>
+
+  <p class="footnote">FitBench — built for the Rooman AI Challenge · TF-IDF similarity + Groq LLM judgment</p>
+</div>
+
+<script src="{{ url_for('static', filename='js/meter.js') }}"></script>
+<script src="{{ url_for('static', filename='js/results.js') }}"></script>
+</body>
+</html>

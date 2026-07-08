@@ -1,0 +1,417 @@
+[
+  {
+    "file": "resume_01_ananya.txt",
+    "name": "Ananya Rao",
+    "email": "ananya.rao@example.com",
+    "phone": "+91-98765-43210",
+    "total_experience_years": 4.0,
+    "skills": [
+      "Aws",
+      "Ci/Cd",
+      "Django",
+      "Docker",
+      "Fastapi",
+      "Flask",
+      "Git",
+      "Github Actions",
+      "Mysql",
+      "Postgresql",
+      "Pytest",
+      "Python",
+      "Rabbitmq",
+      "Rest Apis",
+      "Sql"
+    ],
+    "education": [
+      "B.E. in Computer Science, RV College of Engineering, 2020"
+    ],
+    "summary": "Candidate with approximately 4 years of experience. Key listed skills: aws, ci/cd, django, docker, fastapi, flask.",
+    "final_score": 58.92,
+    "tfidf_score": 19.77,
+    "llm_score": 80.0,
+    "reasoning": "Heuristic fallback: 10 of the candidate's listed skills appear directly in the job description text.",
+    "strengths": [
+      "aws",
+      "ci/cd",
+      "docker",
+      "git",
+      "mysql"
+    ],
+    "gaps": [],
+    "rank": 1
+  },
+  {
+    "file": "resume_10_manish.txt",
+    "name": "Manish Gupta",
+    "email": "manish.gupta@example.com",
+    "phone": "+91-94321-09876",
+    "total_experience_years": 7.0,
+    "skills": [
+      "Aws",
+      "Ci/Cd",
+      "Docker",
+      "Gcp",
+      "Git",
+      "Github Actions",
+      "Grpc",
+      "Jenkins",
+      "Kafka",
+      "Kubernetes",
+      "Mongodb",
+      "Postgresql",
+      "Python",
+      "Rabbitmq",
+      "Redis",
+      "Rest Apis",
+      "Sql",
+      "Terraform"
+    ],
+    "education": [
+      "M.S. in Computer Science, BITS Pilani, 2017"
+    ],
+    "summary": "Candidate with approximately 7 years of experience. Key listed skills: aws, ci/cd, docker, gcp, git, github actions.",
+    "final_score": 58.08,
+    "tfidf_score": 17.37,
+    "llm_score": 80.0,
+    "reasoning": "Heuristic fallback: 11 of the candidate's listed skills appear directly in the job description text.",
+    "strengths": [
+      "aws",
+      "ci/cd",
+      "docker",
+      "gcp",
+      "git"
+    ],
+    "gaps": [
+      "test"
+    ],
+    "rank": 2
+  },
+  {
+    "file": "resume_03_priya.txt",
+    "name": "Priya Menon",
+    "email": "priya.menon@example.com",
+    "phone": "+91-99887-76655",
+    "total_experience_years": 6.0,
+    "skills": [
+      "Aws",
+      "Ci/Cd",
+      "Docker",
+      "Fastapi",
+      "Flask",
+      "Git",
+      "Graphql",
+      "Kafka",
+      "Kubernetes",
+      "Postgresql",
+      "Python",
+      "Redis",
+      "Rest Apis",
+      "Sql",
+      "Terraform"
+    ],
+    "education": [
+      "M.Tech in Computer Science, IIIT Hyderabad, 2018",
+      "B.Tech in Computer Science, NIT Warangal, 2016"
+    ],
+    "summary": "Candidate with approximately 6 years of experience. Key listed skills: aws, ci/cd, docker, fastapi, flask, git.",
+    "final_score": 57.92,
+    "tfidf_score": 16.92,
+    "llm_score": 80.0,
+    "reasoning": "Heuristic fallback: 9 of the candidate's listed skills appear directly in the job description text.",
+    "strengths": [
+      "aws",
+      "ci/cd",
+      "docker",
+      "git",
+      "kafka"
+    ],
+    "gaps": [
+      "test"
+    ],
+    "rank": 3
+  },
+  {
+    "file": "resume_07_neha.txt",
+    "name": "Neha Iyer",
+    "email": "neha.iyer@example.com",
+    "phone": "+91-97654-32109",
+    "total_experience_years": 5.0,
+    "skills": [
+      "Aws",
+      "Ci/Cd",
+      "Django",
+      "Docker",
+      "Fastapi",
+      "Git",
+      "Github Actions",
+      "Mysql",
+      "Postgresql",
+      "Pytest",
+      "Python",
+      "Rabbitmq",
+      "Redis",
+      "Rest Apis",
+      "Sql"
+    ],
+    "education": [
+      "B.E. in Information Science, BMS College of Engineering, 2019"
+    ],
+    "summary": "Candidate with approximately 5 years of experience. Key listed skills: aws, ci/cd, django, docker, fastapi, git.",
+    "final_score": 57.75,
+    "tfidf_score": 16.44,
+    "llm_score": 80.0,
+    "reasoning": "Heuristic fallback: 10 of the candidate's listed skills appear directly in the job description text.",
+    "strengths": [
+      "aws",
+      "ci/cd",
+      "docker",
+      "git",
+      "mysql"
+    ],
+    "gaps": [],
+    "rank": 4
+  },
+  {
+    "file": "resume_05_fatima.txt",
+    "name": "Fatima Sheikh",
+    "email": "fatima.sheikh@example.com",
+    "phone": "+91-91234-56789",
+    "total_experience_years": 3.0,
+    "skills": [
+      "Django",
+      "Docker",
+      "Git",
+      "Linux",
+      "Mysql",
+      "Postgresql",
+      "Pytest",
+      "Python",
+      "Rest Apis",
+      "Sql"
+    ],
+    "education": [
+      "B.Sc. in Computer Science, University of Mumbai, 2021"
+    ],
+    "summary": "Candidate with approximately 3 years of experience. Key listed skills: django, docker, git, linux, mysql, postgresql.",
+    "final_score": 54.7,
+    "tfidf_score": 15.14,
+    "llm_score": 76.0,
+    "reasoning": "Heuristic fallback: 7 of the candidate's listed skills appear directly in the job description text.",
+    "strengths": [
+      "docker",
+      "git",
+      "mysql",
+      "postgresql",
+      "python"
+    ],
+    "gaps": [],
+    "rank": 5
+  },
+  {
+    "file": "resume_08_thomas.txt",
+    "name": "Thomas George",
+    "email": "thomas.george@example.com",
+    "phone": "+91-96543-21098",
+    "total_experience_years": 5.0,
+    "skills": [
+      "Ci/Cd",
+      "Docker",
+      "Git",
+      "Hibernate",
+      "Java",
+      "Jenkins",
+      "Mysql",
+      "Python",
+      "Rest Apis",
+      "Spring Boot",
+      "Sql"
+    ],
+    "education": [
+      "B.Tech in Computer Science, College of Engineering Trivandrum, 2018"
+    ],
+    "summary": "Candidate with approximately 5 years of experience. Key listed skills: ci/cd, docker, git, hibernate, java, jenkins.",
+    "final_score": 52.97,
+    "tfidf_score": 10.21,
+    "llm_score": 76.0,
+    "reasoning": "Heuristic fallback: 7 of the candidate's listed skills appear directly in the job description text.",
+    "strengths": [
+      "ci/cd",
+      "docker",
+      "git",
+      "mysql",
+      "python"
+    ],
+    "gaps": [
+      "test"
+    ],
+    "rank": 6
+  },
+  {
+    "file": "resume_06_karan.txt",
+    "name": "Karan Malhotra",
+    "email": "karan.malhotra@example.com",
+    "phone": "+91-99001-22334",
+    "total_experience_years": 3.0,
+    "skills": [
+      "Excel",
+      "Git",
+      "Pandas",
+      "Postgresql",
+      "Power Bi",
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "education": [
+      "B.Com with Computer Applications, Delhi University, 2021"
+    ],
+    "summary": "Candidate with approximately 3 years of experience. Key listed skills: excel, git, pandas, postgresql, power bi, python.",
+    "final_score": 37.74,
+    "tfidf_score": 11.25,
+    "llm_score": 52.0,
+    "reasoning": "Heuristic fallback: 4 of the candidate's listed skills appear directly in the job description text.",
+    "strengths": [
+      "git",
+      "postgresql",
+      "python",
+      "sql"
+    ],
+    "gaps": [
+      "rest",
+      "test"
+    ],
+    "rank": 7
+  },
+  {
+    "file": "resume_09_sara.txt",
+    "name": "Sara D'Souza",
+    "email": "sara.dsouza@example.com",
+    "phone": "+91-95432-10987",
+    "total_experience_years": 5.0,
+    "skills": [
+      "Docker",
+      "Flask",
+      "Git",
+      "Python",
+      "Sql",
+      "Sqlite"
+    ],
+    "education": [
+      "B.Sc. in Computer Applications, Goa University, 2023"
+    ],
+    "summary": "Candidate with approximately 5 years of experience. Key listed skills: docker, flask, git, python, sql, sqlite.",
+    "final_score": 37.16,
+    "tfidf_score": 9.61,
+    "llm_score": 52.0,
+    "reasoning": "Heuristic fallback: 4 of the candidate's listed skills appear directly in the job description text.",
+    "strengths": [
+      "docker",
+      "git",
+      "python",
+      "sql"
+    ],
+    "gaps": [
+      "rest",
+      "test"
+    ],
+    "rank": 8
+  },
+  {
+    "file": "resume_04_arjun.txt",
+    "name": "Arjun Sharma",
+    "email": "arjun.sharma@example.com",
+    "phone": "+91-98123-45678",
+    "total_experience_years": 0,
+    "skills": [
+      "Flask",
+      "Git",
+      "Numpy",
+      "Pandas",
+      "Python",
+      "Scikit-Learn",
+      "Sql",
+      "Sqlite"
+    ],
+    "education": [
+      "B.Tech in Computer Science, VIT Pune, 2024"
+    ],
+    "summary": "Candidate with approximately 0 years of experience. Key listed skills: flask, git, numpy, pandas, python, scikit-learn.",
+    "final_score": 31.48,
+    "tfidf_score": 8.22,
+    "llm_score": 44.0,
+    "reasoning": "Heuristic fallback: 3 of the candidate's listed skills appear directly in the job description text.",
+    "strengths": [
+      "git",
+      "python",
+      "sql"
+    ],
+    "gaps": [
+      "rest",
+      "test"
+    ],
+    "rank": 9
+  },
+  {
+    "file": "resume_02_vikram.txt",
+    "name": "Vikram Nair",
+    "email": "vikram.nair@example.com",
+    "phone": "+91-90000-11122",
+    "total_experience_years": 2.0,
+    "skills": [
+      "Git",
+      "Java",
+      "Javascript",
+      "Mongodb",
+      "Node.Js",
+      "Python",
+      "React"
+    ],
+    "education": [
+      "B.Tech in Information Technology, Anna University, 2022"
+    ],
+    "summary": "Candidate with approximately 2 years of experience. Key listed skills: git, java, javascript, mongodb, node.js, python.",
+    "final_score": 25.42,
+    "tfidf_score": 5.77,
+    "llm_score": 36.0,
+    "reasoning": "Heuristic fallback: 2 of the candidate's listed skills appear directly in the job description text.",
+    "strengths": [
+      "git",
+      "python"
+    ],
+    "gaps": [
+      "sql",
+      "rest",
+      "test"
+    ],
+    "rank": 10
+  },
+  {
+    "file": "resume_11_lakshmi.txt",
+    "name": "Lakshmi Venkatesan",
+    "email": "lakshmi.v@example.com",
+    "phone": "+91-93210-98765",
+    "total_experience_years": 4.0,
+    "skills": [
+      "Excel",
+      "Git"
+    ],
+    "education": [
+      "B.A. in Mass Communication, Bharathiar University, 2020"
+    ],
+    "summary": "Candidate with approximately 4 years of experience. Key listed skills: excel, git.",
+    "final_score": 19.98,
+    "tfidf_score": 5.1,
+    "llm_score": 28.0,
+    "reasoning": "Heuristic fallback: 1 of the candidate's listed skills appear directly in the job description text.",
+    "strengths": [
+      "git"
+    ],
+    "gaps": [
+      "python",
+      "sql",
+      "rest",
+      "test"
+    ],
+    "rank": 11
+  }
+]

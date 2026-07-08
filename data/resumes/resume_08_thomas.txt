@@ -1,0 +1,22 @@
+Thomas George
+Kochi, India | thomas.george@example.com | +91-96543-21098
+
+SUMMARY
+Java backend developer with 5 years of experience in Spring Boot
+microservices and enterprise systems.
+
+SKILLS
+Java, Spring Boot, Hibernate, REST APIs, Oracle DB, MySQL, Maven, Jenkins,
+Git, Docker, basic Python scripting
+
+EXPERIENCE
+Senior Java Developer, Enterprise Systems Ltd (2019 - Present)
+- Built microservices in Spring Boot for banking clients
+- Used Jenkins for CI/CD and Docker for containerization
+- Wrote SQL queries against Oracle DB
+
+Java Developer, TechSol Corp (2018 - 2019)
+- Maintained REST APIs in a Spring MVC application
+
+EDUCATION
+B.Tech in Computer Science, College of Engineering Trivandrum, 2018

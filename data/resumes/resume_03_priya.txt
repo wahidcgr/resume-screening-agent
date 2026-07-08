@@ -1,0 +1,24 @@
+Priya Menon
+Hyderabad, India | priya.menon@example.com | +91-99887-76655
+
+SUMMARY
+Senior backend engineer with 6 years of experience in Python microservices,
+cloud infrastructure, and distributed systems.
+
+SKILLS
+Python, FastAPI, Flask, REST APIs, GraphQL, PostgreSQL, Redis, Docker,
+Kubernetes, AWS, Terraform, Kafka, unit testing, CI/CD, Git
+
+EXPERIENCE
+Senior Backend Engineer, CloudScale Systems (2019 - Present)
+- Led design of microservices architecture handling 10M+ daily transactions
+- Implemented event-driven pipelines using Kafka and Python
+- Managed Kubernetes deployments on AWS EKS
+- Mentored 3 junior engineers on API design and testing practices
+
+Backend Developer, DataForge Inc. (2018 - 2019)
+- Built REST APIs in Flask, integrated with PostgreSQL and Redis caching
+
+EDUCATION
+M.Tech in Computer Science, IIIT Hyderabad, 2018
+B.Tech in Computer Science, NIT Warangal, 2016

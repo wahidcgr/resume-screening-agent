@@ -1,0 +1,24 @@
+Neha Iyer
+Bengaluru, India | neha.iyer@example.com | +91-97654-32109
+
+SUMMARY
+Backend engineer with 5 years of experience specializing in Python APIs,
+SQL databases, and DevOps practices including Docker and CI/CD.
+
+SKILLS
+Python, FastAPI, Django REST Framework, PostgreSQL, MySQL, Redis, Docker,
+Docker Compose, GitHub Actions, AWS (EC2, S3, Lambda), Git, pytest, RabbitMQ
+
+EXPERIENCE
+Backend Engineer, HealthTrack Systems (2020 - Present)
+- Designed REST APIs in FastAPI for a patient records platform
+- Set up CI/CD pipelines using GitHub Actions for automated deploys to AWS
+- Implemented message-based background jobs using RabbitMQ
+- Wrote comprehensive pytest suites, maintaining 90%+ coverage
+
+Software Engineer, NimbleSoft (2019 - 2020)
+- Built internal REST services in Django REST Framework
+- Optimized slow SQL queries on MySQL, reducing report time by 60%
+
+EDUCATION
+B.E. in Information Science, BMS College of Engineering, 2019
