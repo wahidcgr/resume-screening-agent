@@ -83,7 +83,8 @@ Two ways to use FitBench: the **web dashboard** (recommended — visual, interac
 
 ---
 
-## Option A: Web Dashboard (to run in browser)   --- you have resumes from this project itself inside data folder select it and also job description is available in same folder copy paste it in the browser for screening
+## Option A: Web Dashboard (to run in browser)   --- you have resumes from this project itself inside data folder select it and also job description is available in same folder copy paste it in the browser for screening or you can use your won resume and job description
+
 
 ```bash
 python app.py
