@@ -66,8 +66,10 @@ Edit `.env` and add your key from https://console.groq.com/keys (free
 sign-up, no credit card required), then export it into your shell (or
 use a tool like `python-dotenv` / `direnv` if you prefer auto-loading):
 
-```bash
-export GROQ_API_KEY=your-groq-api-key-here (insert it in .env folder only)
+In .env folder type GROQ_API_KEY=your-key
+
+```bash in terminal type-
+$env:GROQ_API_KEY=your api key
 ```
 
 > **No API key?** The agent still runs end-to-end using a heuristic
